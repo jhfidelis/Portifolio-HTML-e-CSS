@@ -69,3 +69,8 @@ body {
     color: #F6F6F6;
     font-family: "Montserrat", sans-serif;
 }
+
+.apresentacao__links__url:hover {
+    background-color: #272727;
+    color: #22D4FC;
+}
